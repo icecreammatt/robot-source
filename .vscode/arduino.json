@@ -1,5 +1,6 @@
 {
     "sketch": "test-robot.ino",
     "port": "/dev/tty.usbmodem14201",
-    "board": "arduino:avr:uno"
+    "board": "arduino:avr:mega",
+    "configuration": "cpu=atmega2560"
 }
