@@ -28,8 +28,8 @@ const int J6_STEP = 12;
 const int J6_DIR = 13;
 
 // Using 8,9 for uno to test with
-int stepPin = 2;  //PUL-
-int directionPin = 3;  // DIR-
+// int stepPin = 2;  //PUL-
+// int directionPin = 3;  // DIR-
 
 int loops = 0;
 int pulseWidthMicros = 0;
