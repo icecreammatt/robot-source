@@ -32,8 +32,8 @@ const int J6_DIR = 13;
 // int directionPin = 3;  // DIR-
 
 int loops = 0;
-int pulseWidthMicros = 0;
-int millisbetweenSteps = 2; // milliseconds - or try 1000 for slower steps
+int pulseWidthMicros = 1;
+int millisbetweenSteps = 0; // milliseconds - or try 1000 for slower steps
 
 int maxStepsForward = 2000;
 int maxStepsBackward = maxStepsForward;
